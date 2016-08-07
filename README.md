@@ -1,0 +1,1 @@
+# diacrtics-of-a-txt.py
