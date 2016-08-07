@@ -14,5 +14,5 @@ The worst of all is probably Vietnamese:
 Úú Ùù Ũũ Ủủ Ụụ Ưư Ứứ Ừừ Ữữ Ửử Ựự Ýý Ỳỳ Ỹỹ Ỷỷ Ỵỵ
 
 My job is to write a method twistUp which "twists up" a string, making it as much filled with diacritics as possible.
-challenge taken from
+challenge taken from reddit
 https://www.reddit.com/r/dailyprogrammer/comments/4qg2eo/20160629_challenge_273_intermediate_twist_up_a/
